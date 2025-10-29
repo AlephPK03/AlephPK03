@@ -2,10 +2,11 @@
 
 ## Hi! I make things :)
 
-- 🌱 Junior Java developer
+- 🌱 Java developer
 - 🎮 Aspiring game-dev
 - 🎵 Seasoned musician
 - 🎨 Learning artist
+- 📶 Web developer (reluctantly)
 
 <!--
 **AlephPK03/AlephPK03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
