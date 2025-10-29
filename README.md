@@ -1,4 +1,11 @@
-## Hi there 👋
+#### Languages: [en](README.md) - [es]
+
+## Hi! I make things :)
+
+- 🌱 Junior Java developer
+- 🎮 Aspiring game-dev
+- 🎵 Seasoned musician
+- 🎨 Learning artist
 
 <!--
 **AlephPK03/AlephPK03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
